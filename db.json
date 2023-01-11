@@ -41,12 +41,28 @@
       "nome": "Barbearia",
       "descricao": "Corte, pintura ou descoloração de cabelo e barba"
     }
-  ],
-  "clientes": [
+    ],
+   "clientes": [
   {
     "nome" : "Lívia",
+    "id" : 1020,
+    "servico_id" : 2,
+    "procedimento" : "Acrigel: Manutenção Encapsulada e Pé",
+    "horario" : "15:45"
+  },
+  {
+    "nome" : "Ana Luíza",
+    "id" : 1030,
+    "servico_id" : 3,
+    "procedimento" : " Corte Americano",
+    "horario" : "11:00" 
+  },
+  {
+    "nome" : "Thiago",
     "id" : 1010,
-    "servico_id" : 2
+    "servico_id" : 1,
+    "procedimento" : "Nagô Desenhada",
+    "horario" : "9:00"
   }
 ]
 }
